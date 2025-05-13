@@ -27,6 +27,7 @@ nav ul li a {
     text-decoration: none;
 }
 
+<<<<<<< HEAD
 nav ul {
     list-style: none;
     padding: 0;
@@ -57,6 +58,8 @@ nav ul > li {
     display: block;
 }
 
+=======
+>>>>>>> 7bce05c43819470e407d73caf0aed3f2483b1d10
 section {
     padding: 20px;
     border-bottom: 1px solid #ccc;
@@ -87,6 +90,7 @@ a[type="submit"] {
     border: none;
     border-radius: 5px;
     cursor: pointer;
+<<<<<<< HEAD
     text-align: center;
     vertical-align: middle;
     line-height: normal;
@@ -95,6 +99,12 @@ a[type="submit"] {
 
 a[type="submit"]:hover {
     background: #555!important;
+=======
+}
+
+a[type="submit"]:hover {
+    background: #555;
+>>>>>>> 7bce05c43819470e407d73caf0aed3f2483b1d10
 }
 
 .mob-flexible {
